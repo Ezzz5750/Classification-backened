@@ -1,0 +1,11 @@
+fastapi[all]==0.110.0
+uvicorn[standard]==0.29.0
+google-cloud-vision==3.5.0
+redis[hiredis]==5.0.3
+slowapi==0.1.7
+python-dotenv==1.0.1
+tenacity==8.2.3
+prometheus-fastapi-instrumentator==7.0.0
+structlog==23.2.0
+pytest==7.4.0
+httpx==0.25.0

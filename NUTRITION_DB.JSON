@@ -1,0 +1,31 @@
+{
+  "idli": {
+    "calories_per_unit": 50,
+    "protein_g_per_unit": 2.1,
+    "unit_weight_grams": 33
+  },
+  "masala_dosa": {
+    "calories_per_unit": 280,
+    "protein_g_per_unit": 6.2
+  },
+  "medu_vada": {
+    "calories_per_unit": 180,
+    "protein_g_per_unit": 4.5
+  },
+  "sambar": {
+    "calories_per_ml": 0.75,
+    "calories_per_100ml": 75
+  },
+  "coconut_chutney": {
+    "calories_per_ml": 1.2,
+    "calories_per_100ml": 120
+  },
+  "rice": {
+    "calories_per_gram": 1.3,
+    "calories_per_100g": 130
+  },
+  "reference_plate": {
+    "description": "Used for scaling only",
+    "ignore_in_output": true
+  }
+}

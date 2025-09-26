@@ -1,11 +1,12 @@
-fastapi[all]==0.110.0
-uvicorn[standard]==0.29.0
-google-cloud-vision==3.5.0
-redis[hiredis]==5.0.3
-slowapi==0.1.7
-python-dotenv==1.0.1
-tenacity==8.2.3
-prometheus-fastapi-instrumentator==7.0.0
-structlog==23.2.0
-pytest==7.4.0
-httpx==0.25.0
+# requirements.txt
+fastapi==0.110.0
+uvicorn==0.29.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+torch==2.2.0
+torchvision==0.17.0
+supervision==0.20.0
+Pillow==10.3.0
+requests==2.31.0
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/IDEA-Research/GroundingDINO.git
